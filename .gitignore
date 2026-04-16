@@ -8,6 +8,9 @@ Thumbs.db
 *.swp
 *~
 
+# Claude Code local config
+.claude/
+
 # Python (for any future code)
 __pycache__/
 *.py[cod]
